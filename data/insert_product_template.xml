@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data noupdate="1">
+        <record id="mo_id_1" model="product.template">
+            <field name="name">POLICARBONATO ALVEOLAR 6mm</field>
+            <field name="list_price">123000</field>
+            <field name="volume">123</field>
+        </record>
+        <record id="mo_id_2" model="product.template">
+            <field name="name">POLICARBONATO ALVEOLAR 12mm</field>
+            <field name="list_price">123000</field>
+            <field name="volume">123</field>
+        </record>
+        <record id="mo_id_3" model="product.template">
+            <field name="name">POLICARBONATO ALVEOLAR 10mm</field>
+            <field name="list_price">103000</field>
+            <field name="volume">123</field>
+        </record>
+    </data>
+</openerp>
